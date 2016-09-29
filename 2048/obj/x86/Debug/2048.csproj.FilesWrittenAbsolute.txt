@@ -1,0 +1,5 @@
+/home/lealcy/Dev/2048/2048/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lealcy/Dev/2048/2048/bin/Debug/2048.exe.mdb
+/home/lealcy/Dev/2048/2048/bin/Debug/2048.exe
+/home/lealcy/Dev/2048/2048/obj/x86/Debug/2048.exe
+/home/lealcy/Dev/2048/2048/obj/x86/Debug/2048.exe.mdb
